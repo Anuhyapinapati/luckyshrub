@@ -1,0 +1,1 @@
+Lucky Shrub is a simple and elegant front-end web application for an online plant store. Built using only HTML and CSS, this project showcases a clean, responsive design for browsing and purchasing plants online.
